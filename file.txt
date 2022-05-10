@@ -1,0 +1,6 @@
+ifce-mp+    2340    1158  0 12:49 ?        00:00:00 /usr/libexec/xdg-desktop-portal
+ifce-mp+    2344    1158  0 12:49 ?        00:00:00 /usr/libexec/xdg-desktop-portal-gtk
+ifce-mp+    7166    6789  0 13:31 pts/0    00:00:00 top
+ifce-mp+    7169    6789  0 13:31 pts/0    00:00:00 top
+ifce-mp+    7177    6789  0 13:31 pts/0    00:00:00 top
+ifce-mp+    7950    6789  0 13:39 pts/0    00:00:00 grep --color=auto top

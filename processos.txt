@@ -1,0 +1,260 @@
+UID          PID    PPID  C STIME TTY          TIME CMD
+root           1       0  0 11:11 ?        00:00:01 /sbin/init splash
+root           2       0  0 11:11 ?        00:00:00 [kthreadd]
+root           3       2  0 11:11 ?        00:00:00 [rcu_gp]
+root           4       2  0 11:11 ?        00:00:00 [rcu_par_gp]
+root           6       2  0 11:11 ?        00:00:00 [kworker/0:0H-events_highpri]
+root           9       2  0 11:11 ?        00:00:00 [mm_percpu_wq]
+root          10       2  0 11:11 ?        00:00:00 [rcu_tasks_rude_]
+root          11       2  0 11:11 ?        00:00:00 [rcu_tasks_trace]
+root          12       2  0 11:11 ?        00:00:00 [ksoftirqd/0]
+root          13       2  0 11:11 ?        00:00:02 [rcu_sched]
+root          14       2  0 11:11 ?        00:00:00 [migration/0]
+root          15       2  0 11:11 ?        00:00:00 [idle_inject/0]
+root          16       2  0 11:11 ?        00:00:00 [cpuhp/0]
+root          17       2  0 11:11 ?        00:00:00 [cpuhp/1]
+root          18       2  0 11:11 ?        00:00:00 [idle_inject/1]
+root          19       2  0 11:11 ?        00:00:00 [migration/1]
+root          20       2  0 11:11 ?        00:00:00 [ksoftirqd/1]
+root          22       2  0 11:11 ?        00:00:00 [kworker/1:0H-events_highpri]
+root          23       2  0 11:11 ?        00:00:00 [cpuhp/2]
+root          24       2  0 11:11 ?        00:00:00 [idle_inject/2]
+root          25       2  0 11:11 ?        00:00:00 [migration/2]
+root          26       2  0 11:11 ?        00:00:00 [ksoftirqd/2]
+root          28       2  0 11:11 ?        00:00:00 [kworker/2:0H-events_highpri]
+root          29       2  0 11:11 ?        00:00:00 [cpuhp/3]
+root          30       2  0 11:11 ?        00:00:00 [idle_inject/3]
+root          31       2  0 11:11 ?        00:00:00 [migration/3]
+root          32       2  0 11:11 ?        00:00:00 [ksoftirqd/3]
+root          34       2  0 11:11 ?        00:00:00 [kworker/3:0H-events_highpri]
+root          35       2  0 11:11 ?        00:00:00 [cpuhp/4]
+root          36       2  0 11:11 ?        00:00:00 [idle_inject/4]
+root          37       2  0 11:11 ?        00:00:00 [migration/4]
+root          38       2  0 11:11 ?        00:00:00 [ksoftirqd/4]
+root          40       2  0 11:11 ?        00:00:00 [kworker/4:0H-events_highpri]
+root          41       2  0 11:11 ?        00:00:00 [cpuhp/5]
+root          42       2  0 11:11 ?        00:00:00 [idle_inject/5]
+root          43       2  0 11:11 ?        00:00:00 [migration/5]
+root          44       2  0 11:11 ?        00:00:00 [ksoftirqd/5]
+root          46       2  0 11:11 ?        00:00:00 [kworker/5:0H-events_highpri]
+root          47       2  0 11:11 ?        00:00:00 [kdevtmpfs]
+root          48       2  0 11:11 ?        00:00:00 [netns]
+root          49       2  0 11:11 ?        00:00:00 [inet_frag_wq]
+root          50       2  0 11:11 ?        00:00:00 [kauditd]
+root          51       2  0 11:11 ?        00:00:00 [khungtaskd]
+root          52       2  0 11:11 ?        00:00:00 [oom_reaper]
+root          53       2  0 11:11 ?        00:00:00 [writeback]
+root          54       2  0 11:11 ?        00:00:00 [kcompactd0]
+root          55       2  0 11:11 ?        00:00:00 [ksmd]
+root          56       2  0 11:11 ?        00:00:00 [khugepaged]
+root         103       2  0 11:11 ?        00:00:00 [kintegrityd]
+root         104       2  0 11:11 ?        00:00:00 [kblockd]
+root         105       2  0 11:11 ?        00:00:00 [blkcg_punt_bio]
+root         106       2  0 11:11 ?        00:00:00 [tpm_dev_wq]
+root         107       2  0 11:11 ?        00:00:00 [ata_sff]
+root         108       2  0 11:11 ?        00:00:00 [md]
+root         109       2  0 11:11 ?        00:00:00 [edac-poller]
+root         110       2  0 11:11 ?        00:00:00 [devfreq_wq]
+root         112       2  0 11:11 ?        00:00:00 [watchdogd]
+root         115       2  0 11:11 ?        00:00:00 [kswapd0]
+root         116       2  0 11:11 ?        00:00:00 [kworker/2:1H-kblockd]
+root         117       2  0 11:11 ?        00:00:00 [ecryptfs-kthrea]
+root         120       2  0 11:11 ?        00:00:00 [kthrotld]
+root         121       2  0 11:11 ?        00:00:00 [irq/122-aerdrv]
+root         122       2  0 11:11 ?        00:00:00 [irq/122-pcie-dp]
+root         125       2  0 11:11 ?        00:00:00 [acpi_thermal_pm]
+root         127       2  0 11:11 ?        00:00:00 [vfio-irqfd-clea]
+root         129       2  0 11:11 ?        00:00:00 [mld]
+root         130       2  0 11:11 ?        00:00:00 [ipv6_addrconf]
+root         136       2  0 11:11 ?        00:00:00 [kworker/1:1H-kblockd]
+root         140       2  0 11:11 ?        00:00:00 [kstrp]
+root         143       2  0 11:11 ?        00:00:00 [zswap-shrink]
+root         144       2  0 11:11 ?        00:00:00 [kworker/u13:0-i915_flip]
+root         151       2  0 11:11 ?        00:00:00 [charger_manager]
+root         203       2  0 11:11 ?        00:00:00 [kworker/0:1H-kblockd]
+root         205       2  0 11:11 ?        00:00:00 [kworker/3:1H-events_highpri]
+root         206       2  0 11:11 ?        00:00:00 [scsi_eh_0]
+root         207       2  0 11:11 ?        00:00:00 [scsi_tmf_0]
+root         208       2  0 11:11 ?        00:00:00 [scsi_eh_1]
+root         209       2  0 11:11 ?        00:00:00 [scsi_tmf_1]
+root         210       2  0 11:11 ?        00:00:00 [scsi_eh_2]
+root         211       2  0 11:11 ?        00:00:00 [scsi_tmf_2]
+root         212       2  0 11:11 ?        00:00:00 [scsi_eh_3]
+root         213       2  0 11:11 ?        00:00:00 [scsi_tmf_3]
+root         219       2  0 11:11 ?        00:00:00 [kworker/5:1H-kblockd]
+root         223       2  0 11:11 ?        00:00:00 [kworker/4:1H-events_highpri]
+root         244       2  0 11:11 ?        00:00:00 [jbd2/sda6-8]
+root         245       2  0 11:11 ?        00:00:00 [ext4-rsv-conver]
+root         289       1  0 11:11 ?        00:00:04 /lib/systemd/systemd-journald
+root         316       2  0 11:11 ?        00:00:00 [loop0]
+root         319       2  0 11:11 ?        00:00:00 [loop1]
+root         320       2  0 11:11 ?        00:00:00 [loop2]
+root         322       2  0 11:11 ?        00:00:00 [loop3]
+root         324       2  0 11:11 ?        00:00:00 [loop4]
+root         326       2  0 11:11 ?        00:00:00 [loop5]
+root         328       2  0 11:11 ?        00:00:00 [loop6]
+root         330       2  0 11:11 ?        00:00:00 [loop7]
+root         333       2  0 11:11 ?        00:00:00 [loop8]
+root         336       2  0 11:11 ?        00:00:00 [loop9]
+root         337       2  0 11:11 ?        00:00:00 [loop10]
+root         340       2  0 11:11 ?        00:00:00 [loop11]
+root         342       2  0 11:11 ?        00:00:00 [loop12]
+root         344       2  0 11:11 ?        00:00:00 [loop13]
+root         346       2  0 11:11 ?        00:00:00 [loop14]
+root         347       2  0 11:11 ?        00:00:00 [loop15]
+root         349       2  0 11:11 ?        00:00:00 [loop16]
+root         350       2  0 11:11 ?        00:00:00 [loop17]
+root         353       2  0 11:11 ?        00:00:00 [loop18]
+root         355       2  0 11:11 ?        00:00:00 [loop19]
+root         357       2  0 11:11 ?        00:00:00 [loop20]
+root         358       2  0 11:11 ?        00:00:00 [loop21]
+root         360       1  0 11:11 ?        00:00:01 /lib/systemd/systemd-udevd
+root         364       2  0 11:11 ?        00:00:00 [loop22]
+root         400       2  0 11:11 ?        00:00:00 [cryptd]
+root         407       2  0 11:11 ?        00:00:00 [irq/126-mei_me]
+root         454       2  0 11:11 ?        00:00:00 [cfg80211]
+root         484       2  0 11:11 ?        00:00:01 [irq/128-iwlwifi]
+root         485       2  0 11:11 ?        00:00:00 [card0-crtc0]
+root         486       2  0 11:11 ?        00:00:00 [card0-crtc1]
+root         487       2  0 11:11 ?        00:00:00 [card0-crtc2]
+systemd+     795       1  0 11:11 ?        00:00:01 /lib/systemd/systemd-resolved
+systemd+     796       1  0 11:11 ?        00:00:00 /lib/systemd/systemd-timesyncd
+root         833       1  0 11:11 ?        00:00:00 /usr/lib/accountsservice/accounts-daemon
+root         834       1  0 11:11 ?        00:00:00 /usr/sbin/acpid
+avahi        837       1  0 11:11 ?        00:00:03 avahi-daemon: running [ifce-mpe-636055.local]
+root         838       1  0 11:11 ?        00:00:00 /usr/lib/bluetooth/bluetoothd
+root         839       1  0 11:11 ?        00:00:00 /usr/sbin/cron -f
+message+     841       1  0 11:11 ?        00:00:04 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         842       1  0 11:11 ?        00:00:13 /usr/sbin/NetworkManager --no-daemon
+root         847       1  0 11:11 ?        00:00:00 /usr/sbin/irqbalance --foreground
+root         848       1  0 11:11 ?        00:00:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         851       1  0 11:11 ?        00:00:00 /usr/lib/policykit-1/polkitd --no-debug
+syslog       853       1  0 11:11 ?        00:00:01 /usr/sbin/rsyslogd -n -iNONE
+root         856       1  0 11:11 ?        00:00:02 /usr/lib/snapd/snapd
+root         857       1  0 11:11 ?        00:00:00 /usr/libexec/switcheroo-control
+root         859       1  0 11:11 ?        00:00:00 /lib/systemd/systemd-logind
+root         860       1  0 11:11 ?        00:00:00 /usr/sbin/thermald --systemd --dbus-enable --adaptive
+root         861       1  0 11:11 ?        00:00:00 /usr/lib/udisks2/udisksd
+root         862       1  0 11:11 ?        00:00:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+avahi        867     837  0 11:11 ?        00:00:00 avahi-daemon: chroot helper
+root         930       1  0 11:11 ?        00:00:00 /usr/sbin/cupsd -l
+root         967       1  0 11:11 ?        00:00:00 /usr/sbin/cups-browsed
+root         974       1  0 11:11 ?        00:00:04 dockerd --group docker --exec-root=/run/snap.docker --data-root=/var/snap/docker/common/var-lib-docker --pidfile=/run/snap.docker/docker.pid --config-file=/var/snap/docker/1458/config/daemon.json
+root         976       1  0 11:11 ?        00:00:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root         978       1  0 11:11 ?        00:00:01 /usr/bin/containerd
+root        1005       1  0 11:11 ?        00:00:00 /usr/sbin/ModemManager
+root        1033       1  0 11:11 ?        00:00:00 /usr/sbin/gdm3
+root        1060    1033  0 11:11 ?        00:00:00 gdm-session-worker [pam/gdm-autologin]
+lp          1091     930  0 11:11 ?        00:00:00 /usr/lib/cups/notifier/dbus dbus://
+postgres    1153       1  0 11:11 ?        00:00:00 /usr/lib/postgresql/12/bin/postgres -D /var/lib/postgresql/12/main -c config_file=/etc/postgresql/12/main/postgresql.conf
+colord      1154       1  0 11:11 ?        00:00:00 /usr/libexec/colord
+whoopsie    1177       1  0 11:11 ?        00:00:00 /usr/bin/whoopsie -f
+kernoops    1182       1  0 11:11 ?        00:00:00 /usr/sbin/kerneloops --test
+kernoops    1185       1  0 11:11 ?        00:00:00 /usr/sbin/kerneloops
+ifce-mp+    1191       1  0 11:11 ?        00:00:00 /lib/systemd/systemd --user
+ifce-mp+    1192    1191  0 11:11 ?        00:00:00 (sd-pam)
+root        1193       2  0 11:11 ?        00:00:00 [iprt-VBoxWQueue]
+root        1195       2  0 11:11 ?        00:00:00 [iprt-VBoxTscThr]
+ifce-mp+    1217    1191  0 11:11 ?        00:00:00 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+ifce-mp+    1219    1191  0 11:11 ?        00:00:00 /usr/libexec/tracker-miner-fs
+postgres    1221    1153  0 11:11 ?        00:00:00 postgres: 12/main: checkpointer   
+postgres    1222    1153  0 11:11 ?        00:00:00 postgres: 12/main: background writer   
+postgres    1223    1153  0 11:11 ?        00:00:00 postgres: 12/main: walwriter   
+postgres    1224    1153  0 11:11 ?        00:00:00 postgres: 12/main: autovacuum launcher   
+postgres    1225    1153  0 11:11 ?        00:00:00 postgres: 12/main: stats collector   
+postgres    1226    1153  0 11:11 ?        00:00:00 postgres: 12/main: logical replication launcher   
+ifce-mp+    1245       1  0 11:11 ?        00:00:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+ifce-mp+    1249    1060  0 11:11 tty2     00:00:00 /usr/lib/gdm3/gdm-x-session --run-script env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --systemd --session=ubuntu
+ifce-mp+    1263    1249  0 11:11 tty2     00:00:26 /usr/lib/xorg/Xorg vt2 -displayfd 3 -auth /run/user/1000/gdm/Xauthority -background none -noreset -keeptty -verbose 3
+rtkit       1267       1  0 11:11 ?        00:00:00 /usr/libexec/rtkit-daemon
+ifce-mp+    1275    1191  0 11:11 ?        00:00:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+ifce-mp+    1291    1191  0 11:12 ?        00:00:00 /usr/libexec/gvfsd
+ifce-mp+    1302    1191  0 11:12 ?        00:00:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+ifce-mp+    1307    1191  0 11:12 ?        00:00:00 /usr/libexec/gvfs-udisks2-volume-monitor
+ifce-mp+    1318    1191  0 11:12 ?        00:00:00 /usr/libexec/gvfs-afc-volume-monitor
+root        1338     974  0 11:12 ?        00:00:02 containerd --config /run/snap.docker/containerd/containerd.toml --log-level error
+ifce-mp+    1339    1191  0 11:12 ?        00:00:00 /usr/libexec/gvfs-goa-volume-monitor
+ifce-mp+    1343    1191  0 11:12 ?        00:00:00 /usr/libexec/goa-daemon
+root        1355       2  0 11:12 ?        00:00:00 [krfcommd]
+ifce-mp+    1388    1191  0 11:12 ?        00:00:00 /usr/libexec/goa-identity-service
+ifce-mp+    1393    1191  0 11:12 ?        00:00:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+ifce-mp+    1398    1191  0 11:12 ?        00:00:00 /usr/libexec/gvfs-mtp-volume-monitor
+root        1402       1  0 11:12 ?        00:00:00 /usr/lib/upower/upowerd
+ifce-mp+    1444    1249  0 11:12 tty2     00:00:00 /usr/libexec/gnome-session-binary --systemd --systemd --session=ubuntu
+ifce-mp+    1511    1444  0 11:12 ?        00:00:00 /usr/bin/ssh-agent /usr/bin/im-launch env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --systemd --session=ubuntu
+root        1534       2  0 11:12 ?        00:00:00 bpfilter_umh
+ifce-mp+    1557    1191  0 11:12 ?        00:00:00 /usr/libexec/at-spi-bus-launcher
+ifce-mp+    1580    1557  0 11:12 ?        00:00:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+ifce-mp+    1674    1191  0 11:12 ?        00:00:00 /usr/libexec/gnome-session-ctl --monitor
+ifce-mp+    1681    1191  0 11:12 ?        00:00:00 /usr/libexec/gnome-session-binary --systemd-service --session=ubuntu
+ifce-mp+    1721    1191  0 11:12 ?        00:00:33 /usr/bin/gnome-shell
+root        1862       1  0 11:12 ?        00:00:01 /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock
+ifce-mp+    2054    1721  0 11:12 ?        00:00:00 ibus-daemon --panel disable --xim
+ifce-mp+    2058    2054  0 11:12 ?        00:00:00 /usr/libexec/ibus-dconf
+ifce-mp+    2059    2054  0 11:12 ?        00:00:00 /usr/libexec/ibus-extension-gtk3
+ifce-mp+    2063    1191  0 11:12 ?        00:00:00 /usr/libexec/ibus-x11 --kill-daemon
+ifce-mp+    2069    1191  0 11:12 ?        00:00:00 /usr/libexec/ibus-portal
+ifce-mp+    2073    1191  0 11:12 ?        00:00:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+ifce-mp+    2081    1191  0 11:12 ?        00:00:00 /usr/libexec/xdg-permission-store
+ifce-mp+    2083    1191  0 11:12 ?        00:00:00 /usr/libexec/gnome-shell-calendar-server
+ifce-mp+    2096    1191  0 11:12 ?        00:00:00 /usr/libexec/evolution-source-registry
+ifce-mp+    2112    1191  0 11:12 ?        00:00:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.Shell.Notifications
+ifce-mp+    2125    1191  0 11:12 ?        00:00:00 /usr/libexec/evolution-calendar-factory
+ifce-mp+    2127    1191  0 11:12 ?        00:00:00 /usr/libexec/gsd-a11y-settings
+ifce-mp+    2128    1191  0 11:12 ?        00:00:00 /usr/libexec/gsd-color
+ifce-mp+    2129    1191  0 11:12 ?        00:00:00 /usr/libexec/gsd-datetime
+ifce-mp+    2131    1191  0 11:12 ?        00:00:00 /usr/libexec/gsd-housekeeping
+ifce-mp+    2133    1191  0 11:12 ?        00:00:00 /usr/libexec/gsd-keyboard
+ifce-mp+    2134    1191  0 11:12 ?        00:00:00 /usr/libexec/gsd-media-keys
+ifce-mp+    2136    1191  0 11:12 ?        00:00:00 /usr/libexec/gsd-power
+ifce-mp+    2138    1191  0 11:12 ?        00:00:00 /usr/libexec/gsd-print-notifications
+ifce-mp+    2139    1191  0 11:12 ?        00:00:00 /usr/libexec/gsd-rfkill
+ifce-mp+    2140    1191  0 11:12 ?        00:00:00 /usr/libexec/gsd-screensaver-proxy
+ifce-mp+    2141    1191  0 11:12 ?        00:00:03 /usr/libexec/gsd-sharing
+ifce-mp+    2142    1191  0 11:12 ?        00:00:00 /usr/libexec/gsd-smartcard
+ifce-mp+    2143    1191  0 11:12 ?        00:00:00 /usr/libexec/gsd-sound
+ifce-mp+    2144    1191  0 11:12 ?        00:00:00 /usr/libexec/gsd-usb-protection
+ifce-mp+    2145    1191  0 11:12 ?        00:00:00 /usr/libexec/gsd-wacom
+ifce-mp+    2146    1191  0 11:12 ?        00:00:00 /usr/libexec/gsd-wwan
+ifce-mp+    2147    1191  0 11:12 ?        00:00:00 /usr/libexec/gsd-xsettings
+ifce-mp+    2148    2054  0 11:12 ?        00:00:00 /usr/libexec/ibus-engine-simple
+ifce-mp+    2151    1681  0 11:12 ?        00:00:00 /usr/libexec/evolution-data-server/evolution-alarm-notify
+ifce-mp+    2154    1681  0 11:12 ?        00:00:00 /usr/libexec/gsd-disk-utility-notify
+ifce-mp+    2242    1191  0 11:12 ?        00:00:00 /usr/libexec/gsd-printer
+ifce-mp+    2253    1291  0 11:12 ?        00:00:00 /usr/libexec/gvfsd-trash --spawner :1.4 /org/gtk/gvfs/exec_spaw/0
+ifce-mp+    2265    1191  0 11:12 ?        00:00:07 /snap/snap-store/558/usr/bin/snap-store --gapplication-service
+ifce-mp+    2281    1191  0 11:12 ?        00:00:00 /usr/libexec/xdg-document-portal
+ifce-mp+    2320    1191  0 11:12 ?        00:00:00 /usr/libexec/dconf-service
+ifce-mp+    2339    1191  0 11:12 ?        00:00:00 /usr/libexec/evolution-addressbook-factory
+ifce-mp+    2421    1191  0 11:12 ?        00:00:00 /usr/libexec/xdg-desktop-portal
+ifce-mp+    2425    1191  0 11:12 ?        00:00:00 /usr/libexec/xdg-desktop-portal-gtk
+root        2438       1  0 11:12 ?        00:00:01 /usr/libexec/fwupd/fwupd
+ifce-mp+    3673    1191  0 11:13 ?        00:00:00 /usr/libexec/gvfsd-metadata
+ifce-mp+    3678    1681  0 11:13 ?        00:00:00 update-notifier
+root        4077       2  0 11:39 ?        00:00:09 [kworker/5:1-mm_percpu_wq]
+root        4152       2  0 11:41 ?        00:00:00 [kworker/1:1-events]
+root        4206       2  0 11:52 ?        00:00:00 [kworker/2:0-rcu_gp]
+root        4247       2  0 11:55 ?        00:00:00 [kworker/u12:0-events_unbound]
+root        4283       2  0 12:00 ?        00:00:00 [kworker/u12:2-ext4-rsv-conversion]
+lp          4299     930  0 12:01 ?        00:00:00 /usr/lib/cups/notifier/dbus dbus://
+root        4303       2  0 12:01 ?        00:00:00 [kworker/4:0-rcu_gp]
+root        4343       2  0 12:04 ?        00:00:00 [kworker/u13:2-rb_allocator]
+root        4462       2  0 12:07 ?        00:00:00 [kworker/3:2-rcu_gp]
+root        4471       2  0 12:07 ?        00:00:00 [kworker/0:1-cgroup_destroy]
+root        4488       2  0 12:09 ?        00:00:00 [kworker/2:1-events]
+root        4536       2  0 12:12 ?        00:00:00 [kworker/1:0-rcu_gp]
+root        4539       2  0 12:12 ?        00:00:00 [kworker/4:2-events]
+root        4569       2  0 12:14 ?        00:00:00 [kworker/3:1-events]
+root        4599       2  0 12:15 ?        00:00:00 [kworker/5:2-rcu_gp]
+root        4677       2  0 12:18 ?        00:00:00 [kworker/0:2-events]
+root        4682       2  0 12:18 ?        00:00:00 [kworker/u12:1-ext4-rsv-conversion]
+root        4688       2  0 12:19 ?        00:00:00 [kworker/u12:3-events_unbound]
+root        4709       2  0 12:21 ?        00:00:00 [kworker/5:0-rcu_gp]
+root        4710       2  0 12:21 ?        00:00:00 [kworker/4:1-mm_percpu_wq]
+root        4715       2  0 12:21 ?        00:00:00 [kworker/1:2-rcu_gp]
+root        4734       2  0 12:22 ?        00:00:00 [kworker/1:3-events]
+root        4738       2  0 12:22 ?        00:00:00 [kworker/u13:1]
+ifce-mp+    4747    1191  0 12:22 ?        00:00:00 /usr/libexec/gnome-terminal-server
+ifce-mp+    4755    4747  0 12:22 pts/0    00:00:00 bash
+root        4780       2  0 12:24 ?        00:00:00 [kworker/2:2-events]
+ifce-mp+    4798    4755  0 12:25 pts/0    00:00:00 ps -ef
